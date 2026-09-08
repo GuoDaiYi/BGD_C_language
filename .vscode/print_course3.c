@@ -9,6 +9,7 @@ int main()
     john_score=memory;
     printf("John Score=%d\n",john_score);
     printf("Mike Score=%d\n",mike_score);
+    return 0;
 }
 //题目：已知 Mike 成绩是 98，John 成绩是 89，可在登记成绩时因看错行，导致 Mike 的成绩被错误登记在 John 那里，现在要把两位的成绩纠正过来。
 //请完成以下练习：
