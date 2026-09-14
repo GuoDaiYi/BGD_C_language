@@ -1,3 +1,4 @@
+//输入一个立方体的长宽高，计算立方体的体积并输出
 #include <stdio.h>
 int main()
 {
