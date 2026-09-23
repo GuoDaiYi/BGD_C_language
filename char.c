@@ -1,10 +1,10 @@
 #include <stdio.h>
-void main()
+int main()
 {
     char a,b,c;
-    a=getchar();
-    b=getchar();
-    c=getchar();
+    a=putchar(getchar());
+    b=putchar(getchar());
+    c=putchar(getchar());
     putchar(a);putchar(b);putchar(c);
     putchar('\n');
     return 0;
